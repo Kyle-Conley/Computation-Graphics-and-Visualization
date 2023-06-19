@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(817,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(896,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(909,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(930,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(462,25): warning C4101: 'VAOLight': unreferenced local variable
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(462,15): warning C4101: 'VBOLight': unreferenced local variable
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(1114,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(1115,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(1119,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(1120,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(1121,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(1122,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\17706\Desktop\CS330 Comp Graphic and Visualization\3DSceneFinalM6\OpenGLSample\OpenGLSample\OpenGLSample\Debug\OpenGLSample.exe
